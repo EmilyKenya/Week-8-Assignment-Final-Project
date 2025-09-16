@@ -40,9 +40,16 @@ Verify tables by running SHOW TABLES;.
 Query the database to fetch recipes, ingredients, or favorites.
 
 
+
+
 **Sample Queries**
 
 **Fetch all recipes:**
 
 SELECT * FROM Recipes;
+
+
+
+
+
 
