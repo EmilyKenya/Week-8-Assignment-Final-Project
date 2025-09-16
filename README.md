@@ -1,7 +1,7 @@
 **Meal Recipe App Database**
 **Description**
 
-This project is a relational database system for a Meal Recipe App. It allows users to create accounts, view recipes (including Kenyan and international recipes), track ingredients, and save favorite recipes.
+This project is a relational database system for a Meal Recipe App. It allows users to create accounts, view recipes (including Kenyan and international recipes), track ingredients and save favorite recipes.
 
 **Database Features**
 
@@ -45,3 +45,4 @@ Query the database to fetch recipes, ingredients, or favorites.
 **Fetch all recipes:**
 
 SELECT * FROM Recipes;
+
